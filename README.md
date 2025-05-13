@@ -2,7 +2,7 @@
 - 👀 I’m interested in C#.Net
 - 🌱 I’m currently learning ASP.NET CORE
 - 💞️ I’m looking to collaborate on .NET
-- 📫 How to reach me ...
+- 📫 How to reach me at asmsayem202@gmail.com
 - 😄 Pronouns: Sayem
 - ⚡ Fun fact: ...
 
