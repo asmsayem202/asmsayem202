@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asmsayem202
-- 👀 I’m interested in C#.Net
-- 🌱 I’m currently learning ASP.NET CORE
-- 💞️ I’m looking to collaborate on .NET
+- 👀 I’m interested in C#.Net, Angular and React
+- 🌱 I’m currently learning ASP.NET CORE, Angular and React
+- 💞️ I’m looking to collaborate on .NET Developers 
 - 📫 How to reach me at asmsayem202@gmail.com
 - 😄 Pronouns: Sayem
 - ⚡ Fun fact: ...
