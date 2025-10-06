@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 🧩 I enjoy architecting clean, modular applications, designing RESTful APIs, and delivering beautiful, responsive UIs using Tailwind CSS.
 🔐 Experienced in authentication, authorization, and role-based access systems with ASP.NET Identity and JWT.
 
-🛠 Tech Stack
+🛠 Tech Stack:
 💻 ASP.NET Core • C# • Entity Framework Core • SQL Server • MySQL
 ⚡ React (Vite) • Angular 17 • TypeScript • Tailwind CSS
 🔐 ASP.NET Identity • JWT Auth • RESTful APIs
